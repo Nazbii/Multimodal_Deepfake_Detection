@@ -1,2 +1,2 @@
 # Multimodal_Deepfake_Detection
-Yuazn Ze University AI course project
+Yuan Ze University AI course project
